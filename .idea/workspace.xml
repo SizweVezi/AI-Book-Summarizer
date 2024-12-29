@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf1054dd-8d26-407e-86c0-d83acd806198" name="Changes" comment="Updated AI_Summarizer commit with gitignore">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-    </list>
+    <list default="true" id="cf1054dd-8d26-407e-86c0-d83acd806198" name="Changes" comment="removing enviroment variables" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -123,7 +121,31 @@
       <option name="project" value="LOCAL" />
       <updated>1735494823687</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="removing enviroment variables">
+      <option name="closed" value="true" />
+      <created>1735494941009</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1735494941009</updated>
+    </task>
+    <task id="LOCAL-00007" summary="removing enviroment variables">
+      <option name="closed" value="true" />
+      <created>1735494962358</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1735494962358</updated>
+    </task>
+    <task id="LOCAL-00008" summary="removing enviroment variables">
+      <option name="closed" value="true" />
+      <created>1735495066106</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1735495066106</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -141,6 +163,7 @@
     <MESSAGE value="Updated AI_Summarizer commit" />
     <MESSAGE value="AI_Summarizer commit" />
     <MESSAGE value="Updated AI_Summarizer commit with gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated AI_Summarizer commit with gitignore" />
+    <MESSAGE value="removing enviroment variables" />
+    <option name="LAST_COMMIT_MESSAGE" value="removing enviroment variables" />
   </component>
 </project>
